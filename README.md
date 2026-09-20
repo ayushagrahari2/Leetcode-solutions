@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
