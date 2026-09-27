@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
