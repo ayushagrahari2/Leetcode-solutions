@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,9 +62,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
