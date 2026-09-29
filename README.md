@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -76,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushagrahari2/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
